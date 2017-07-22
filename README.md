@@ -1,6 +1,7 @@
 # credit-worthiness-random-forests
 Contains the code used for feature selection, engineering and ultimately implementing and tuning a Random Forests model to predict credit worthiness of microfinance clients.
-1.	There are 5 .py scripts 
+
+There are 5 .py scripts 
 - 1Cleaning_Files
 - 2Repayment_Data_Cust
 - 3LoanGap
